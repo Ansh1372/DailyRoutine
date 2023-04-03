@@ -3,5 +3,5 @@
 # properties
 -- using basic react component , props , hooks(basic hooks)
 # hooks
-1-useState
-2-useEffect
+## 1-useState
+## 2-useEffect
